@@ -1,4 +1,4 @@
-#  International Components for Unicode
+F11F11#  International Components for Unicode
 
 This is the repository for the [International Components for Unicode](https://icu.unicode.org/).
 The ICU project is under the stewardship of [The Unicode Consortium](https://www.unicode.org).
